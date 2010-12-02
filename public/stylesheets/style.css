@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+#screen{
+  margin:10px;
+  width:70%;
+  float:left;
+}
+#user{
+  margin:10px;
+  width:20%;
+  float:left;
+}
+
+#input{
+  clear:both;
+}
+
+#user, #screen{
+  height:200px;
+  background: #000;
+  color: #fff;
+}
+
+#user-input{
+  width:100%;
+  padding:10px;
+}
+
+
